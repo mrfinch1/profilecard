@@ -1,2 +1,2 @@
 # profilecard
-Bloglara ekleyebileceğiniz sade bir profil
+Bloglara ekleyebileceğiniz sade bir profil iskeleti
